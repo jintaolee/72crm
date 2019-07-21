@@ -189,7 +189,7 @@ class Tasklable extends ApiCommon
         if (Request::instance()->isOptions()) {
             return ;
         } else {
-            echo '悟空软件';
+            echo '英威利软件';
         }
     }      
 }

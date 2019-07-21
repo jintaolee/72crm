@@ -38,14 +38,12 @@
         </el-form-item>
       </el-form>
       <div class="copyright">
-        悟空CRM受国家计算机软件著作权保护，未经授权不得进行商业行为，违者必究。<br>
+        英威利CRM受国家计算机软件著作权保护，未经授权不得进行商业行为，违者必究。<br>
         <a target="_blank"
-           href="http://www.5kcrm.com">©2019 悟空软件</a>
+           href="">©2019 英威利软件</a>
       </div>
     </div>
-
-    <img class="logo"
-         :src="logo" />
+    <img class="logo" :src="logo" /> 
   </div>
 </template>
 

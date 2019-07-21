@@ -622,7 +622,7 @@ class Customer extends ApiCommon
         $objProps->setCategory("5kcrm");
         $objPHPExcel->setActiveSheetIndex(0);
         $objActSheet = $objPHPExcel->getActiveSheet();
-        $objActSheet->setTitle('悟空软件客户导入模板'.date('Y-m-d',time()));
+        $objActSheet->setTitle('英威利软件客户导入模板'.date('Y-m-d',time()));
 
         //填充边框
         $styleArray = [
