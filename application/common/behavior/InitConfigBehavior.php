@@ -2,7 +2,7 @@
 // +----------------------------------------------------------------------
 // | Description: 加载动态配置
 // +----------------------------------------------------------------------
-// | Author:  Michael_xu <gengxiaoxu@5kcrm.com>
+// | Author:  Michael_xu <gengxiaoxu@caigouyun.net>
 // +----------------------------------------------------------------------
 namespace app\common\behavior;
 class InitConfigBehavior

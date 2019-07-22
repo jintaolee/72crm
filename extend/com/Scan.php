@@ -1,6 +1,6 @@
 <?php
 // +----------------------------------------------------------------------
-// | Author: Michael_xu <gengxiaoxu@5kcrm.com>
+// | Author: Michael_xu <gengxiaoxu@caigouyun.net>
 // +----------------------------------------------------------------------
 
 namespace com;

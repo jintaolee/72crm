@@ -2,7 +2,7 @@
   "name": "5kcrm",
   "version": "9.0.0",
   "description": "",
-  "author": "5kcrm <service@5kcrm.com>",
+  "author": "5kcrm <772063721@qq.com>",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
